@@ -46,8 +46,8 @@ GET	/leads	Retrieve all leads
 🚀 Getting Started
 1. Clone the repository
 
-git clone https://github.com/your-username/lead-capture-system.git
-cd lead-capture-system
+git [clone https://github.com/your-username/lead-capture-system.git](https://github.com/kyraprak/lead-manager.git)
+cd
 
 2. Install dependencies
 
