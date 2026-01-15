@@ -1,8 +1,6 @@
 📌 Lead Capture & Management System
 🧠 Overview
 This project is a full-stack lead capture and management system built with Flask. It simulates how lead ads flow into CRM platforms by accepting user input, validating it on the backend, persisting it in a relational database, and exposing REST APIs for retrieval.
-<img width="2880" height="1800" alt="lead manager display" src="https://github.com/user-attachments/assets/0a5c8f6f-a73f-49ab-a055-7ec50d4dd36d" />
-
 
 🛠️ Tech Stack
 * Backend: Python, Flask 
